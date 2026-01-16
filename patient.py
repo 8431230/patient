@@ -1,0 +1,8 @@
+name=input("Enter patient name: " )
+age=int (input("Enter patient age: "))
+desease=input("Enter patient disease: ")
+result=input("Enter test result: ")
+print("Patient Name:", name)
+print("Patient Age:", age)
+print("Patient Disease:", desease)
+print("Test Result:", result)
